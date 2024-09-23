@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Wlmserick"><img src="https://readme-typing-svg.herokuapp.com/?lines=mobile%20 and web%20developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+</p> -->
 
 <a href="https://komarev.com/ghpvc/?username=Wlmserick">
   <img align="right" src="https://komarev.com/ghpvc/?username=Wlmserick&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -67,11 +67,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Wlmserick">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wlmserick &theme=radical&border=7F3FBF&background=0D1117" alt="Erick's GitHub streak"/>
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/Wlmserick">
