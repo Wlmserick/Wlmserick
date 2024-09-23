@@ -59,7 +59,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif" alt="Coding gif" />
   
  📚 &emsp; Passionate about coding and constantly learning new technologies<br/><br/>
  ❤️ &emsp;Enjoy exploring innovative features and implementing creative solutions. <br/><br/>
