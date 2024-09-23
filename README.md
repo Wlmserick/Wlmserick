@@ -12,7 +12,7 @@
 </a>
 
 
-[![waketime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<!--[[![waketime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)]-->
 
 <!-- Intro  -->
 <h3 align="center">
@@ -22,17 +22,6 @@
     </b>
 </div>
 </h3>
-
-<style>
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 30%; }
-    }
-    @keyframes blink-caret {
-        from, to { border-color: transparent; }
-        50% { border-color: #61dafb; }
-    }
-</style>
 
 
 <p align="center"> 
